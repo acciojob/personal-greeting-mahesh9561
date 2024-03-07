@@ -14,6 +14,7 @@ const App = () => {
     <div>
       {/* Do not remove the main div */}
       {/* <p>Enter your name: </p> */}
+      <label htmlFor=""> Enter your name: </label>
       <input
         type="text"
         placeholder="Enter your name"
